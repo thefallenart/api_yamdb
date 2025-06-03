@@ -52,9 +52,6 @@ python3 manage.py migrate
 python3 manage.py runserver
 ```
 ___
-## Авторы
-[Антон Шапиро](https://github.com/antonshapiro)
-[Василий Фролов](https://github.com/Vas0017)
-[Мария - ShunyaBo](https://github.com/ShunyaBo)
-___
-[*Вверх*](#Content)
+## Автор
+[Кирилл - thefallenart](https://github.com/thefallenart)
+
